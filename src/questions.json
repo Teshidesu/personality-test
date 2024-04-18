@@ -1,0 +1,215 @@
+[
+  {
+    "question": "¿Qué tipo de ambiente te gusta más?",
+    "answers": [
+      {
+        "text": "Bosques frondosos y llenos de vida."
+      },
+      {
+        "text": "Cuevas oscuras y misteriosas."
+      },
+      {
+        "text": "Praderas abiertas y soleadas."
+      },
+      {
+        "text": "Ciudades bulliciosas y llenas de gente."
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo te describirías a ti mismo/a?",
+    "answers":[
+      {
+        "text": "Tranquilo/a y sereno/a."
+      },
+      {
+        "text": "Fuerte y valiente."
+      },
+      {
+        "text": "Inteligente y curioso/a."
+      },
+      {
+        "text": "Amigable y extrovertido/a."
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es tu tipo de Pokémon favorito?",
+    "answers": [
+      {
+        "text": "Planta."
+      },
+      {
+        "text": "Roca."
+      },
+      {
+        "text": "Fantasma."
+      },
+      {
+        "text": "Fuego."
+      },
+      {
+        "text": "Psíquico."
+      },
+      {
+        "text": "Agua."
+      },
+      {
+        "text": "Hada."
+      }
+    ]
+  },
+  {
+    "question": "¿Qué superpoder te gustaría tener?",
+    "answers":[
+      {
+        "text": "Curar a los demás."
+      },
+      {
+        "text": "Volar por los aires."
+      },
+      {
+        "text": "Leer la mente."
+      },
+      {
+        "text": "Controlar el fuego."
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo resuelves los conflictos?",
+    "answers":[
+      {
+        "text": "Hablando y buscando un entendimiento común."
+      },
+      {
+        "text": "Enfrentándome directamente al problema."
+      },
+      {
+        "text": "Usando mi inteligencia para encontrar una solución creativa."
+      },
+      {
+        "text": "Buscando la ayuda de otros."
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es tu mayor miedo?",
+    "answers":[
+      {
+        "text": "Estar solo/a."
+      },
+      {
+        "text": "Ser derrotado/a."
+      },
+      {
+        "text": "No ser lo suficientemente inteligente."
+      },
+      {
+        "text": "No ser querido/a."
+      }
+    ]
+  },
+  {
+    "question": "¿Qué te motiva a seguir adelante?",
+    "answers":[
+      {
+        "text": "El deseo de ayudar a los demás."
+      },
+      {
+        "text": "El desafío de superar obstáculos."
+      },
+      {
+        "text": "La búsqueda de conocimiento y comprensión."
+      },
+      {
+        "text": "La conexión con las personas que te importan."
+      }
+    ]
+  },
+  {
+    "question": "¿Cómo te gusta pasar tu tiempo libre?",
+    "answers":[
+      {
+        "text": "Explorando la naturaleza."
+      },
+      {
+        "text": "Aventurándome en lugares desconocidos."
+      },
+      {
+        "text": "Leyendo o aprendiendo cosas nuevas."
+      },
+      {
+        "text": "Socializando con amigos y familiares."
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál crees que es tu mayor fortaleza?",
+    "answers":[
+      {
+        "text": "Mi amabilidad y compasión."
+      },
+      {
+        "text": "Mi fuerza y determinación."
+      },
+      {
+        "text": "Mi inteligencia y creatividad."
+      },
+      {
+        "text": "Mi capacidad para conectar con los demás."
+      }
+    ]
+  },
+  {
+    "question": "¿Qué actividad disfrutas más haciendo con tus Pokémon?",
+    "answers": [
+      {
+        "text": "Entrenarlos para combates."
+      },
+      {
+        "text": "Participar en concursos de belleza."
+      },
+      {
+        "text": "Explorar nuevas áreas."
+      },
+      {
+        "text": "Cuidarlos con cariño."
+      }
+    ]
+  },
+  {
+    "question": "¿Qué emoción te genera enfrentarte a desafíos de entrenamiento intensivo?",
+    "answers":[
+      {
+        "text": "Emoción."
+      },
+      {
+        "text": "Determinación."
+      },
+      {
+        "text": "Nerviosismo."
+      },
+      {
+        "text": "Euforia."
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál crees que es tu mayor debilidad?",
+    "answers":[
+      {
+        "text": "A veces soy demasiado tímido/a."
+      },
+      {
+        "text": "Puedo ser impulsivo/a."
+      },
+      {
+        "text": "A veces me tomo las cosas demasiado en serio."
+      },
+      {
+        "text": "Puedo ser demasiado confiado/a."
+      }
+    ]
+  }
+]

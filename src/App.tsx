@@ -4,6 +4,10 @@ const router = createBrowserRouter([
   {
     path: "/",
     lazy: () => import("./pages/index"),
+  },
+  {
+    path: "/questions",
+    lazy: () => import("./pages/questions"),
   }
 ]);
 
