@@ -1,11 +1,11 @@
 import { useState } from "react";
-import { Question } from "../components/question";
+import { QuestionContainer } from "../components/question-container";
 import questions from "../questions.json";
 
-export function Component(){
+export function Component() {
   const [answers, setAnswers] = useState<number[]>(new Array(questions.length).fill(-1));
 
-  function setAnswer(index: number, answer: number){
+  function setAnswer(index: number, answer: number) {
     setAnswers((c) => {
       const clone = [...c];
       clone[index] = answer;
@@ -14,15 +14,23 @@ export function Component(){
   }
 
   return (
-    <>
+    <div style={{
+      display: "flex",
+      flexDirection: "row",
+      flexWrap:"wrap",
+      gap:"1rem",
+      justifyItems:"center",
+      alignItems:"center",
+      backgroundColor:"#0e2238"
+    }} >
       {questions.map((item, index) => (
-        <Question
+        <QuestionContainer
           key={index}
           question={item}
           selected={answers[index]}
           setSelected={(answer) => setAnswer(index, answer)}
         />
       ))}
-    </>
+    </div>
   );
 }
